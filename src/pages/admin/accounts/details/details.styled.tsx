@@ -11,3 +11,8 @@ export const DetailWrapper = styled.div`
   flex-direction: column;
   justify-content: space-between;
 `;
+
+export const DetailContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+`;
